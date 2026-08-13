@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1786531651
+  lastShownTimestamp: 1786618185
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1786531651
+  checkedLastUpdateTimestamp: 1786618185
   lastQOTDResponse:
     questionId: 331
     questionText: What is the purpose of Unity Hub?
@@ -27,7 +27,7 @@ MonoBehaviour:
     answerC: Dashboard for Unity services
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1786531651
+  lastQotdTimestamp: 1786618185
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/summer2025CodeMonkeyBundle_EndsSoon.png
     topText: Get 80% OFF on ALL my Courses and Games!!! (ENDS AUGUST)
@@ -35,19 +35,19 @@ MonoBehaviour:
     bottomText: DONT MISS the latest important trends, sign up for my FREE Weekly
       Newsletter!
     bottomLink: gamedevreport
-  lastDynamicHeaderTimestamp: 1786531651
+  lastDynamicHeaderTimestamp: 1786618185
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1786531651
+  websiteLatestMessageTimestamp: 1786618185
   websiteLatestVideos:
     videos:
+    - youTubeId: Hwpbh2fDPlE
+      title: The SECRET WEAPON making Unity 7 AWESOME - CoreCLR Explained
     - youTubeId: xsQTCKSHte8
       title: TOP 10 NEW Games, Made with Unity! (JULY 2026)
     - youTubeId: 26F9uHlPEO0
       title: WHY this game made $10,000,000!
     - youTubeId: 2oHitHMNyNw
       title: WHY Scope Creep DESTROYS Indie Games (and how to stop it)
-    - youTubeId: -1yYVVVN4as
-      title: BEST NEW Visual Assets to INSPIRE YOU! (JULY 2026)
-  websiteLatestVideosTimestamp: 1786531651
+  websiteLatestVideosTimestamp: 1786618185

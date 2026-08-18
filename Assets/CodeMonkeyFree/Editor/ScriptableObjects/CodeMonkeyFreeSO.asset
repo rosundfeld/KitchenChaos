@@ -14,20 +14,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1786618185
+  lastShownTimestamp: 1787050841
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1786618185
+  checkedLastUpdateTimestamp: 1787050841
   lastQOTDResponse:
-    questionId: 331
-    questionText: What is the purpose of Unity Hub?
-    answerA: Provide a space for the community to interact
-    answerB: Manage different Unity versions and Projects
-    answerC: Dashboard for Unity services
+    questionId: 333
+    questionText: 'If I do:
+
+      <p>Instantiate(myPrefab, Input.mousePosition,
+      Quaternion.identity);</p>
+
+      <p>Will myPrefab be spawned under the mouse?</p>'
+    answerA: Yes
+    answerB: No
+    answerC: 
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1786618185
+  lastQotdTimestamp: 1787050841
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/summer2025CodeMonkeyBundle_EndsSoon.png
     topText: Get 80% OFF on ALL my Courses and Games!!! (ENDS AUGUST)
@@ -35,19 +40,20 @@ MonoBehaviour:
     bottomText: DONT MISS the latest important trends, sign up for my FREE Weekly
       Newsletter!
     bottomLink: gamedevreport
-  lastDynamicHeaderTimestamp: 1786618185
+  lastDynamicHeaderTimestamp: 1787050841
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1786618185
+  websiteLatestMessageTimestamp: 1787050841
   websiteLatestVideos:
     videos:
+    - youTubeId: 2QKVo8m5ozQ
+      title: The MYTH of the Overnight Game Success! ($10 mil DOESN'T happen like
+        that)
+    - youTubeId: VZCaQSzsGwU
+      title: TOP 10 FREE NEW Assets AUGUST 2026!
     - youTubeId: Hwpbh2fDPlE
       title: The SECRET WEAPON making Unity 7 AWESOME - CoreCLR Explained
     - youTubeId: xsQTCKSHte8
       title: TOP 10 NEW Games, Made with Unity! (JULY 2026)
-    - youTubeId: 26F9uHlPEO0
-      title: WHY this game made $10,000,000!
-    - youTubeId: 2oHitHMNyNw
-      title: WHY Scope Creep DESTROYS Indie Games (and how to stop it)
-  websiteLatestVideosTimestamp: 1786618185
+  websiteLatestVideosTimestamp: 1787050841

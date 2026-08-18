@@ -323,7 +323,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   counterTopPoint: {fileID: 396519484081445978}
-  cuttingRecipeSOArray: []
+  cuttingRecipeSOArray:
+  - {fileID: 11400000, guid: 8ee7ae7eeb85497439d88c556899e1ac, type: 2}
+  - {fileID: 11400000, guid: 0bf070cebfb0222419ea0b471f815a7d, type: 2}
+  - {fileID: 11400000, guid: c70f33c6d19821644b8efe37b387075f, type: 2}
   cuttingProgress: 0
 --- !u!1001 &8995767326118699733
 PrefabInstance:

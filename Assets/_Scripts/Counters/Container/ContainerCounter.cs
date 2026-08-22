@@ -7,6 +7,7 @@ public class ContainerCounter : BaseCounter
 {
 
     public event EventHandler OnPlayerGrabbedObject;
+    public static event EventHandler OnAnyObjectGrabbed;
     [SerializeField] private KitchenObjectSO kitchenObjectSO;
 
 
@@ -18,6 +19,7 @@ public class ContainerCounter : BaseCounter
             //Player is not carrying something
             KitchenObject.SpawnKitchenObject(kitchenObjectSO, player);
             OnPlayerGrabbedObject?.Invoke(this, EventArgs.Empty);
+            OnAnyObjectGrabbed?.Invoke(this, EventArgs.Empty);
         }
         
     }
